@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a Backend Developer with experience in Node.js, Express.js, PostgreSQL, and REST APIs. I enjoy building scalable applications, solving technical problems, and continuously learning new technologies. I am passionate about creating efficient backend systems and working on real-world projects that improve my development skills.
+- I am a Backend Developer with experience in Node.js, Express.js, MySQL, and REST APIs. I enjoy building scalable applications, solving technical problems, and continuously learning new technologies. I am passionate about creating efficient backend systems and working on real-world projects that improve my development skills.
 
 
 ## 🧠 My Focus Areas
